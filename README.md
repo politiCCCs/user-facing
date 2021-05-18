@@ -7,7 +7,8 @@ This repository provides scripts to ease building and deployment the backend and
 Since this repository uses git submodules, this will require
 
 ```shell
-git clone git@github.com:politiCCCs/user-facing.git --recurse-submodules
+git clone git@github.com:politiCCCs/user-facing.git --recurse-submodules # If you use SSH
+git clone https://github.com/politiCCCs/user-facing.git --recurse-submodules # If you use HTTPS
 ```
 
 ## Building
