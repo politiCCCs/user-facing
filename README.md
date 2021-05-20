@@ -16,7 +16,7 @@ git clone https://github.com/politiCCCs/user-facing.git --recurse-submodules # I
 To build the backend and frontend, run:
 
 ```shell
-./build.sh <MAPBOX_TOKEN>
+./build.sh
 ```
 
 ## Running the Backend Server
