@@ -7,13 +7,16 @@ Isaac Daly (1129173)
 Mahardini Rizky Putri (921790)
 Richard Yang (1215150)
 -->
+
 # user-facing
 
 This repository provides scripts to ease building and deployment the backend and frontend.
 
+For more details about the [frontend](https://github.com/politiCCCs/frontend) or [backend](https://github.com/politiCCCs/backend), see the respective respository.
+
 ## Cloning
 
-Since this repository uses git submodules, this will require:
+Since this repository uses git submodules, cloning will require:
 
 ```shell
 git clone git@github.com:politiCCCs/user-facing.git --recurse-submodules # If you use SSH
